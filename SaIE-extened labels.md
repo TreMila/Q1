@@ -1,4 +1,4 @@
-Extened Labels in CASIE dataset
+**Extened Labels in CASIE dataset**<br />
 The first column lists the original labels, the second column presents the expanded labels corresponding to the original labels, the third column shows the performance (F1 score) of the expanded labels on the test set, and the fourth column indicates the semantic consistency by human，which between the original labels and their corresponding extended labels (where 0 indicates semantic inconsistency and 1 indicates semantic consistency).
 | Original Event Labels  | Extended Event Labels             | F1 （%） | Semantic Consistency |
 |------------------------|-----------------------------------|----------|----------------------|
@@ -262,7 +262,7 @@ The first column lists the original labels, the second column presents the expan
 | ransom                 | agree                             | 10.53%   | 0                    |
 | ransom                 | hospital attack                   | 0.00%    | 0                    |
 
-Extened Labels in DuEE dataset
+**Extened Labels in DuEE dataset**<br />
 The first column lists the original labels, the second column presents the expanded labels corresponding to the original labels, the third column shows the performance (F1 score) of the expanded labels on the test set, and the fourth column indicates the semantic consistency by human，which between the original labels and their corresponding extended labels (where 0 indicates semantic inconsistency and 1 indicates semantic consistency).
 | Original Event Labels              | Extended Event Labels   | F1 （%） | Semantic Consistency |
 |------------------------------------|-------------------------|----------|----------------------|
@@ -1135,7 +1135,7 @@ The first column lists the original labels, the second column presents the expan
 | 组织行为 (organizational behavior) | 劳工行动-罢工           | 24.00%   | 1                    |
 | 组织行为 (organizational behavior) | 就业-招聘               | 21.43%   | 0                    |
 
-Extened Labels in ACE05 dataset
+**Extened Labels in ACE05 dataset**<br />
 The first column lists the original labels, the second column presents the expanded labels corresponding to the original labels, the third column shows the performance (F1 score) of the expanded labels on the test set, and the fourth column indicates the semantic consistency by human，which between the original labels and their corresponding extended labels (where 0 indicates semantic inconsistency and 1 indicates semantic consistency).
 | Original Entity Labels        | Extended Entity Labels             | F1 （%） | Semantic Consistency |
 |-------------------------------|------------------------------------|----------|----------------------|
@@ -1367,7 +1367,7 @@ The first column lists the original labels, the second column presents the expan
 | weapon                        | intelligence                       | 20.69%   | 0                    |
 | weapon                        | subject                            | 17.39%   | 0                    |
 
-Extened Labels in CMeEE dataset
+**Extened Labels in CMeEE dataset**<br />
 The first column lists the original labels, the second column presents the expanded labels corresponding to the original labels, the third column shows the performance (F1 score) of the expanded labels on the test set, and the fourth column indicates the semantic consistency by human，which between the original labels and their corresponding extended labels (where 0 indicates semantic inconsistency and 1 indicates semantic consistency).
 | Original Entity Labels              | Extended Entity Labels                       | F1 （%） | Semantic Consistency |
 |-------------------------------------|----------------------------------------------|----------|----------------------|
@@ -1884,7 +1884,7 @@ The first column lists the original labels, the second column presents the expan
 | 医学检验项目 (medical examinations) | 病毒学指标                                   | 27.27%   | 1                    |
 | 医学检验项目 (medical examinations) | 基因变异                                     | 25.53%   | 0                    |
 
-Extened Labels in SciERC dataset
+**Extened Labels in SciERC dataset**<br />
 The first column lists the original labels, the second column presents the expanded labels corresponding to the original labels, the third column shows the performance (F1 score) of the expanded labels on the test set, and the fourth column indicates the semantic consistency by human，which between the original labels and their corresponding extended labels (where 0 indicates semantic inconsistency and 1 indicates semantic consistency).
 | Original Relation Labels | Extended Relation Labels                 | F1 （%） | Semantic Consistency |
 |--------------------------|------------------------------------------|----------|----------------------|
@@ -2517,7 +2517,7 @@ The first column lists the original labels, the second column presents the expan
 | EVALUATE-FOR             | INDICATES                                | 0.00%    | 0                    |
 | EVALUATE-FOR             | CORROBORATION                            | 0.00%    | 0                    |
 
-Extened Labels in CMeIE dataset
+**Extened Labels in CMeIE dataset**<br />
 The first column lists the original labels, the second column presents the expanded labels corresponding to the original labels, the third column shows the performance (F1 score) of the expanded labels on the test set, and the fourth column indicates the semantic consistency by human，which between the original labels and their corresponding extended labels (where 0 indicates semantic inconsistency and 1 indicates semantic consistency).
 | Original Relation Labels           | Extended Relation Labels               | F1 （%） | Semantic Consistency |
 |------------------------------------|----------------------------------------|----------|----------------------|
